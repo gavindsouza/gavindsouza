@@ -2,7 +2,7 @@
 **gavindsouza/gavindsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavin-d-souza-19821312a/) 
+### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavin-d-souza-19821312a/)
 
 #### Currently building [@frappe/frappe](https://github.com/frappe/frappe) and [Frappe Cloud](https://frappecloud.com)
 
@@ -30,7 +30,7 @@
 <br />
 
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,3 +42,7 @@
 
 
 ![gavin's github stats](https://github-readme-stats.vercel.app/api?username=gavindsouza&show_icons=true&hide_border=true)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
