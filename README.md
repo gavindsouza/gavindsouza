@@ -45,10 +45,10 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 Python                   4 hrs 15 mins       ████████████████░░░░░░░░░   65.36% 
 Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
 JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
