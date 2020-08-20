@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
