@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://twitter.com/itbegavin">
+<a href="https://twitter.com/gavinxdsouza">
   <img align="left" alt="gavin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gavin-d-souza-19821312a/">
