@@ -4,7 +4,7 @@
 
 ### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavin-d-souza-19821312a/)
 
-#### Currently building [@frappe/frappe](https://github.com/frappe/frappe) and [Frappe Cloud](https://frappecloud.com)
+#### Building [@frappe/frappe](https://github.com/frappe/frappe) and [@frappe/bench](https://github.com/frappe/bench)
 
 
 <br/>
