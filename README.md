@@ -18,9 +18,6 @@
 <a href="https://t.me/gavindsouza">
   <img align="left" alt="gavin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/gavinxdsouza/">
-  <img align="left" alt="gavin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://profile.codersrank.io/user/gavindsouza">
   <img align="left" alt="gavin's Codersrank" height="22px" src="https://simpleicons.org/icons/codersrank.svg" />
 </a>
