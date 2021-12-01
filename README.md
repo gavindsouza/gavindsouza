@@ -55,5 +55,5 @@ JavaScript               12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
