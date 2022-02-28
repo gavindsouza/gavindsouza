@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,5 +57,5 @@ Rust                     1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2022 17:16:03 UTC
+ Last Updated on 28/02/2022 18:27:28 UTC
 <!--END_SECTION:waka-->
