@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,5 +57,5 @@ Groovy                   1 hr 33 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/04/2022 11:08:14 UTC
+ Last Updated on 11/04/2022 12:19:57 UTC
 <!--END_SECTION:waka-->
