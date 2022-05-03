@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%2050%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,5 +57,5 @@ Docker                   1 hr 32 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 03/05/2022 12:16:06 UTC
+ Last Updated on 03/05/2022 13:36:54 UTC
 <!--END_SECTION:waka-->
