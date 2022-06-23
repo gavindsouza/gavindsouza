@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,5 +57,5 @@ JavaScript               22 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2022 10:12:16 UTC
+ Last Updated on 23/06/2022 11:07:43 UTC
 <!--END_SECTION:waka-->
