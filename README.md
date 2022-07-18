@@ -42,18 +42,16 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2034%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 20 mins        ███████████████░░░░░░░░░░   62.12% 
-Python                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.9%
+Python                   2 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/07/2022 19:07:35 UTC
+ Last Updated on 18/07/2022 20:10:16 UTC
 <!--END_SECTION:waka-->
