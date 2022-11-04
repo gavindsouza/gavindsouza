@@ -4,9 +4,6 @@
 
 ### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavin-d-souza-19821312a/)
 
-#### Building [@frappe/frappe](https://github.com/frappe/frappe) and [@frappe/bench](https://github.com/frappe/bench)
-
-
 <br/>
 
 <a href="https://twitter.com/gavinxdsouza">
