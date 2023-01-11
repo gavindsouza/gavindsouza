@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -54,5 +54,5 @@ JSON                     13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/01/2023 08:11:03 UTC
+ Last Updated on 11/01/2023 09:10:15 UTC
 <!--END_SECTION:waka-->
