@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></code>
 
 
-![gavin's github stats](https://github-readme-stats.vercel.app/api?username=gavindsouza&show_icons=true&hide_border=true)
+![gavin's github stats](https://github-readme-stats-kappa-six.vercel.app/api?username=gavindsouza&show_icons=true&hide_border=true)
 
 
 <!--START_SECTION:waka-->
