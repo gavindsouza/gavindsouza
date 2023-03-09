@@ -5,6 +5,9 @@
 <a href="https://twitter.com/gavinxdsouza">
   <img align="left" alt="gavin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://stackoverflow.com/users/10309266/gavin">
+  <img align="left" alt="gavin's Codersrank" height="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />
+</a>
 <a href="https://www.linkedin.com/in/gavin-d-souza-19821312a/">
   <img align="left" alt="gavin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
