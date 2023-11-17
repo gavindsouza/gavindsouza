@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavin-d-souza-19821312a/)
+### Hey 👋🏽, I'm [gavin!](https://www.linkedin.com/in/gavinxdsouza/)
 
 <br/>
 
