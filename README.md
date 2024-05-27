@@ -17,7 +17,6 @@
 <a href="https://profile.codersrank.io/user/gavindsouza">
   <img align="left" alt="gavin's Codersrank" height="22px" src="https://simpleicons.org/icons/codersrank.svg" />
 </a>
-
 <a href="https://visitor-badge.laobi.icu/badge?page_id=gavindsouza.visitor-badge"></a>
 
 <br />
@@ -36,24 +35,4 @@
 <a href="https://vuejs.org/" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> </a>
 </p>
 
-
 [![gavin's github stats](https://github-readme-stats-kappa-six.vercel.app/api?username=gavindsouza&show_icons=true&hide_border=true&theme=radical)](#)
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2018%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    17 hrs 7 mins       ██████████████████░░░░░░░   73.39 % 
-Python                   4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
-
-
- Last Updated on 27/05/2024 00:59:21 UTC
-<!--END_SECTION:waka-->
